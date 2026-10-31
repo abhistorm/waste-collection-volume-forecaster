@@ -1,6 +1,6 @@
 # Waste Collection Volume Forecaster
 
-**Project 097 of 100 · Public services & civic systems · Regression**
+**Project · Public services & civic systems · Regression**
 
 A standalone, runnable AI/ML project with its own saved fitted model, prediction API, and browser GUI. Its primary workflow is **Waste Collection Volume Forecaster · Signal profile comparison**. The feature fields, target, model, and project-specific control are configured for this use case.
 
