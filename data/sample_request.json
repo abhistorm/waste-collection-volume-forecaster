@@ -1,0 +1,14 @@
+{
+  "features": {
+    "p097_waste_collection_volume_forecaster_wait_time_min": 0.0,
+    "p097_waste_collection_volume_forecaster_application_completeness": 0.0,
+    "p097_waste_collection_volume_forecaster_service_load": 0.0,
+    "p097_waste_collection_volume_forecaster_repeat_visits": 0.0,
+    "p097_waste_collection_volume_forecaster_travel_distance_km": 0.0,
+    "p097_waste_collection_volume_forecaster_staff_ratio": 0.0,
+    "p097_waste_collection_volume_forecaster_response_delay_hours": 0.0,
+    "p097_waste_collection_volume_forecaster_neighborhood_index": 0.0,
+    "p097_waste_collection_volume_forecaster_weather_impact": 0.0,
+    "p097_waste_collection_volume_forecaster_request_complexity": 0.0
+  }
+}
